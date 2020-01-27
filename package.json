@@ -1,0 +1,28 @@
+{
+  "name": "arab-world-data",
+  "version": "1.0.0",
+  "description": "data analysis project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reepulse/Arab-world-data.git"
+  },
+  "keywords": [
+    "data",
+    "analysis",
+    "arab",
+    "world"
+  ],
+  "author": "reepulse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reepulse/Arab-world-data/issues"
+  },
+  "homepage": "https://github.com/Reepulse/Arab-world-data#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
