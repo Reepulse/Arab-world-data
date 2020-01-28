@@ -38,7 +38,7 @@ Using data science techniques to filter and visualize the data, in this project 
   jupyter notebook
   ```
 
-- This will `jupyter client` browser window
+- This will open `jupyter client` in your browser window
 
 - Now open the `analysis.ipynb` and play with the notebook
 
