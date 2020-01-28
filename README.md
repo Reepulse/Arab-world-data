@@ -8,11 +8,7 @@ Using data science techniques to filter and visualize the data, in this project 
 
 ---
 
-### I have provided PDF of the of the notebooks so you can easily view the analysis
-
----
-
-### But if you want to run the project locally, run these commands on your local machine
+### If you want to run the project locally, run these commands on your local machine
 
 - Clone the repository
 
