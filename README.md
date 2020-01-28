@@ -54,23 +54,23 @@ Using data science techniques to filter and visualize the data, in this project 
 
 # Glimpse at the analysis
 
-![row_count](D:\10111\fiverr_projects\Arab-world-data\assets\row_count.PNG)
+![row_count](./assets/row_count.PNG)
 
-![data_table](D:\10111\fiverr_projects\Arab-world-data\assets\data_table.PNG)
+![data_table](./assets/data_table.PNG)
 
 > Lots of data to analyze
 
 ### Analyzing the data, I created some visualizations to draw conclusions
 
-![emissions_histogram](D:\10111\fiverr_projects\Arab-world-data\assets\emissions_histogram.PNG)
+![emissions_histogram](./assets/emissions_histogram.PNG)
 
-![emissions_lineplot](D:\10111\fiverr_projects\Arab-world-data\assets\emissions_lineplot.PNG)
+![emissions_lineplot](./assets/emissions_lineplot.PNG)
 
 > Turns out that over years emissions per capita have just increased.
 
-![emissions_histogram2](D:\10111\fiverr_projects\Arab-world-data\assets\emissions_histogram2.PNG)
+![emissions_histogram2](./assets/emissions_histogram2.PNG)
 
-![emissions_histogram3](D:\10111\fiverr_projects\Arab-world-data\assets\emissions_histogram3.PNG)
+![emissions_histogram3](./assets/emissions_histogram3.PNG)
 
 > Turns out that Arab world countries produce 3-4 metric tons co2 per capita on average
 
