@@ -36,8 +36,14 @@ Using data science techniques to filter and visualize the data, in this project 
 
 - This will open `jupyter client` in your browser window
 
-- Now open the `analysis.ipynb` and play with the notebook
+---
 
+### Downloading the dataset
+
+- Download the dataset by clicking on this [link](https://www.kaggle.com/worldbank/world-development-indicators)
+- After downloading extract all the files in the `Arab-world-data` folder
+- Make sure `Indicators.csv` is in same folder as other notebook files
+- Now open the `analysis.ipynb` and play with the notebook
 - I have also created a geographic map representing emissions using `folliom`. `create_map.ipynb` is the notebook for creating map and you can view map by opening `plot_data.html` in the browser
 
 ---
